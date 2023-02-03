@@ -1,0 +1,59 @@
+{
+  "productos": [
+    {
+      "nombre": "Caramelos Masticables Manzana",
+      "precio": 250,
+      "id": 6
+    },
+    {
+      "nombre": "Huevos Revueltos",
+      "precio": 233,
+      "id": 7
+    },
+    {
+      "nombre": "Mermelada de Frutilla",
+      "precio": 200,
+      "id": 8
+    },
+    {
+      "nombre": "Pan",
+      "precio": 350,
+      "id": 9
+    },
+    {
+      "nombre": "Zapatillas",
+      "precio": 12000,
+      "id": 10
+    },
+    {
+      "nombre": "Zapatillas Nike",
+      "precio": 12000,
+      "id": 11
+    },
+    {
+      "nombre": "Zapatillas Adidas",
+      "precio": 12000,
+      "id": 12
+    },
+    {
+      "nombre": "Zapatillas Puma",
+      "precio": 12000,
+      "id": 13
+    },
+    {
+      "nombre": "Bolso Dior",
+      "precio": 2999,
+      "id": 14
+    },
+    {
+      "nombre": "Caramelos de Frambuesa",
+      "precio": 1200,
+      "id": 15
+    },
+    {
+      "nombre": "Jamon",
+      "precio": 300,
+      "id": 16
+    }
+  ]
+}
